@@ -1,0 +1,6 @@
+flask
+wordcloud
+py_vncorenlp
+phonlp 
+dateparser
+scikit-learn
